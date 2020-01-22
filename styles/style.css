@@ -1,0 +1,7 @@
+* { padding: 0; margin: 0; background-color: #333333;}
+canvas { 
+    float:center;
+    background: #333; 
+    display: block; 
+    margin: 0 auto; 
+}
